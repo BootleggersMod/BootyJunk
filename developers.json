@@ -26,7 +26,7 @@
 "dev_title":"Todo el soporte que me dan",
 "uri":{
 "card_background":"https://yt3.ggpht.com/2h05l9iMN1Ne6YQv1gqaEgqFP3fFo1fY0nyni4B7YnRfSVKKulm73OP7AsV-V6vUCOpvzFPFbQ=w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no",
-"card_avatar":"https://lh3.googleusercontent.com/v_XA1AtOznB0l7eu6qlRCaOX65jFK_qSRuZAWDDm0zT-ChMhCMpkO6iFc7zRSZUE7AQnsZXwMzGV5g=w1024-h678-rw-no",
+"card_avatar":"https://lh3.googleusercontent.com/v_XA1AtOznB0l7eu6qlRCaOX65jFK_qSRuZAWDDm0zT-ChMhCMpkO6iFc7zRSZUE7AQnsZXwMzGV5g=w1024-h768-rw-no",
 "google_plus":"",
 "twitter":"",
 "github":"",
@@ -36,6 +36,26 @@
 "telegram":"",
 "youtube":"https://www.youtube.com/channel/UCfKfVL0U2A-h-9oz-oGgazA",
 "wallpapers":"https://raw.githubusercontent.com/BootleggersMod/BootyJunk/master/ShishuWalls.apk",
+"gplay":"",
+"sourcecode":"",
+"ig":""
+}},
+  
+{
+"dev_name":"Dirty Unicorns",
+"dev_title":"About DU (la base de esta app)",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/-p9S_rIap_No/V9iIHcrU1_I/AAAAAAAAEPk/Mba0HIFDvR8oE_1hmfj0SGWqlx561mZBwCL0B/s1000-fcrop64=1,00000000feefffff/12.png",
+"card_avatar":"https://lh3.googleusercontent.com/m0hl80-6YLCuaOxwn15q0QoRP1yOnP4Hv7MxhbcHdKIcfqqQrVa76eQp8TAoGNx5XccVbDSn7gNzNA=w1024-h768-rw-no",
+"google_plus":"https://plus.google.com/u/0/communities/109738128866939227235",
+"twitter":"",
+"github":"https://github.com/dirtyunicorns",
+"headl":"https://play.google.com/store/apps/details?id=com.dirtyunicorns.headers",
+"song":"",
+"spotify":"",
+"telegram":"",
+"youtube":"",
+"wallpapers":"",
 "gplay":"",
 "sourcecode":"",
 "ig":""
