@@ -159,5 +159,25 @@
 "gplay":"",
 "sourcecode":"",
 "ig":""
+}},
+  
+{
+"dev_name":"OmniROM",
+"dev_title":"OmniStyle (Headers), OmniClock",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/VzCcLKwSmxvZUZ_zITSaYFIOvByEel7LLJKWihcneh4M0BSURkEe8m9ccEsUmcmOsL1dO5XmJelBLQ=w2048-h1152-no",
+"card_avatar":"https://avatars2.githubusercontent.com/u/5341305?v=3&s=400",
+"google_plus":"https://plus.google.com/communities/102450203113748251717",
+"twitter":"",
+"github":"",
+"headl":"",
+"song":"",
+"spotify":"",
+"telegram":"",
+"youtube":"",
+"wallpapers":"",
+"gplay":"https://play.google.com/store/apps/details?id=com.maxwen.deskclock",
+"sourcecode":"https://github.com/omnirom/android_packages_apps_OmniStyle",
+"ig":""
 }}
 ]
