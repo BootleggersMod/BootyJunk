@@ -22,10 +22,10 @@
 }},
   
 {
-"dev_name":"Cuspi Droid",
-"dev_title":"Todo el soporte que me dan",
+"dev_name":"Moto E 2015 en Español",
+"dev_title":"Hace falta aclararlo?",
 "uri":{
-"card_background":"https://yt3.ggpht.com/2h05l9iMN1Ne6YQv1gqaEgqFP3fFo1fY0nyni4B7YnRfSVKKulm73OP7AsV-V6vUCOpvzFPFbQ=w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no",
+"card_background":"https://raw.githubusercontent.com/BootleggersMod/BootyJunk/master/assets/fbanner.jpg",
 "card_avatar":"https://lh3.googleusercontent.com/v_XA1AtOznB0l7eu6qlRCaOX65jFK_qSRuZAWDDm0zT-ChMhCMpkO6iFc7zRSZUE7AQnsZXwMzGV5g=w1024-h768-rw-no",
 "google_plus":"",
 "twitter":"",
@@ -33,8 +33,28 @@
 "headl":"",
 "song":"",
 "spotify":"",
-"telegram":"https://t.me/cuspidroid",
-"youtube":"https://www.youtube.com/channel/UCfKfVL0U2A-h-9oz-oGgazA",
+"telegram":"https://t.me/letter4fbsurnia",
+"youtube":"",
+"wallpapers":"",
+"gplay":"",
+"sourcecode":"",
+"ig":""
+}},
+  
+{
+"dev_name":"Shishu",
+"dev_title":"Motivación/Inspiración/Dándome ánimos",
+"uri":{
+"card_background":"https://instagram.fsst1-2.fna.fbcdn.net/t51.2885-15/e35/16123247_266390980448295_8411750576576004096_n.jpg",
+"card_avatar":"https://www.androidcentral.com/sites/androidcentral.com/files/styles/larger_wm_brw/public/article_images/2015/02/moto-e-2015-white.jpg?itok=Mc8Kz3fW",
+"google_plus":"",
+"twitter":"",
+"github":"",
+"headl":"",
+"song":"https://www.youtube.com/watch?v=hHxQQA3JVKc",
+"spotify":"",
+"telegram":"",
+"youtube":"",
 "wallpapers":"",
 "gplay":"",
 "sourcecode":"",
@@ -253,11 +273,11 @@
 "headl":"",
 "song":"",
 "spotify":"",
-"telegram":"https://t.me/eldainosor",
+"telegram":"",
 "youtube":"",
 "wallpapers":"",
 "gplay":"",
 "sourcecode":"https://github.com/BootleggersMod",
-"ig":"https://instagram.com/eldainosor.bmp"
+"ig":""
 }}
 ]
