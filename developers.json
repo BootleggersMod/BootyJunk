@@ -42,26 +42,6 @@
 }},
   
 {
-"dev_name":"Moto E 2015 en Español",
-"dev_title":"Hace falta aclararlo?",
-"uri":{
-"card_background":"https://raw.githubusercontent.com/BootleggersMod/BootyJunk/master/assets/fbanner.jpg",
-"card_avatar":"https://www.androidcentral.com/sites/androidcentral.com/files/styles/larger_wm_brw/public/article_images/2015/02/moto-e-2015-white.jpg?itok=Mc8Kz3fW",
-"google_plus":"",
-"twitter":"",
-"github":"",
-"headl":"",
-"song":"",
-"spotify":"",
-"telegram":"https://t.me/letter4fbsurnia",
-"youtube":"",
-"wallpapers":"",
-"gplay":"",
-"sourcecode":"",
-"ig":""
-}},
-  
-{
 "dev_name":"Dirty Unicorns",
 "dev_title":"About DU (la base de esta app)",
 "uri":{
@@ -255,7 +235,7 @@
 "spotify":"",
 "telegram":"",
 "youtube":"",
-"wallpapers":"",
+"wallpapers":"http://imgur.com/a/FJBce",
 "gplay":"",
 "sourcecode":"https://github.com/BootleggersMod",
 "ig":""
