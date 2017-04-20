@@ -42,6 +42,26 @@
 }},
   
 {
+"dev_name":"Android ROM Devs",
+"dev_title":"Ellos hacen el gran trabajo. Respect.",
+"uri":{
+"card_background":"https://i.ytimg.com/vi/lmv1dTnhLH4/maxresdefault.jpg",
+"card_avatar":"https://pbs.twimg.com/profile_images/606585229034135553/2NqZJYQI.png",
+"google_plus":"",
+"twitter":"",
+"github":"",
+"headl":"",
+"song":"",
+"spotify":"",
+"telegram":"",
+"youtube":"",
+"wallpapers":"",
+"gplay":"",
+"sourcecode":"https://android.googlesource.com",
+"ig":""
+}},
+  
+{
 "dev_name":"Dirty Unicorns",
 "dev_title":"About DU (la base de esta app)",
 "uri":{
