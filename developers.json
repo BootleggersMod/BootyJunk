@@ -50,7 +50,11 @@
 "google_plus":"",
 "twitter":"",
 "github":"",
+<<<<<<< HEAD
 "headl":"",
+=======
+"headl":"http://eldainosor.github.io/shishu/headersextended/",
+>>>>>>> 24dd0b7... Headers info: fix
 "song":"",
 "spotify":"",
 "telegram":"",
@@ -110,7 +114,7 @@
 "google_plus":"https://plus.google.com/+NathanBenis",
 "twitter":"",
 "github":"https://github.com/beanstown106",
-"headl":"https://play.google.com/store/apps/details?id=com.dirtyunicorns.headers",
+"headl":"",
 "song":"",
 "spotify":"",
 "telegram":"",
