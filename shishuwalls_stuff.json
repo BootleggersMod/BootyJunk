@@ -21,6 +21,12 @@
             },
 	    {
                 "name": "NotMine"
+            },
+	    {
+                "name": "Calm"
+            },
+	    {
+                "name": "Sunny"
             }
         ],
     
@@ -87,14 +93,14 @@
 				"url": "http://i.imgur.com/w8qFGFV.jpg",
 				"thumbUrl": "http://i.imgur.com/w8qFGFVm.jpg",
 				"name": "Dank sunset",
-                "category": "uedited,coldmood"
+                "category": "edited,sunny"
 			},
 			{
 				"author": "dank photo by ikaro davi - du shishu wallpaper",
 				"url": "http://i.imgur.com/MiTru9R.jpg",
 				"thumbUrl": "http://i.imgur.com/MiTru9Rm.jpg",
 				"name": "Ikaro's Flowers",
-                "category": "edited,coldmood"
+                "category": "edited,calm"
 			}
 		]
 }
