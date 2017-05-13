@@ -18,6 +18,9 @@
             },
             {
                 "name": "Coldmood"
+            },
+	    {
+                "name": "NotMine"
             }
         ],
     
@@ -28,6 +31,69 @@
 				"url": "http://i.imgur.com/0d5wFPq.jpg",
 				"thumbUrl": "http://i.imgur.com/0d5wFPqm.jpg",
 				"name": "Sad Lorenzo",
+                "category": "edited,coldmood"
+			},
+			{
+				"author": "edited with VSCO - crdroid shishu background",
+				"url": "http://i.imgur.com/8uxzaw2.jpg",
+				"thumbUrl": "http://i.imgur.com/8uxzaw2m.jpg",
+				"name": "Cloudstitucion",
+                "category": "edited,coldmood"
+			},
+			{
+				"author": "with surnia magic",
+				"url": "http://i.imgur.com/VBueoYy.jpg",
+				"thumbUrl": "http://i.imgur.com/VBueoYym.jpg",
+				"name": "Generic Noon",
+                "category": "unedited"
+			},
+			{
+				"author": "another with surnia magic",
+				"url": "http://i.imgur.com/SqzKSFU.jpg",
+				"thumbUrl": "http://i.imgur.com/SqzKSFUm.jpg",
+				"name": "0806: A month later",
+                "category": "unedited"
+			},
+			{
+				"author": "surnia sprinkles - aicp shishu background",
+				"url": "http://i.imgur.com/8uxzaw2.jpg",
+				"thumbUrl": "http://i.imgur.com/8uxzaw2m.jpg",
+				"name": "Sunset #893",
+                "category": "unedited"
+			},
+			{
+				"author": "i still not believe that is from surnia",
+				"url": "http://i.imgur.com/ojLEPAU.jpg",
+				"thumbUrl": "http://i.imgur.com/ojLEPAUm.jpg",
+				"name": "Brasad",
+                "category": "unedited,coldmood"
+			},
+			{
+				"author": "wow thats cool",
+				"url": "http://i.imgur.com/xk26GxF.jpg",
+				"thumbUrl": "http://i.imgur.com/xk26GxFm.jpg",
+				"name": "Going back home",
+                "category": "unedited"
+			},
+			{
+				"author": "the name says it all",
+				"url": "http://i.imgur.com/qhBqt5o.jpg",
+				"thumbUrl": "http://i.imgur.com/qhBqt5om.jpg",
+				"name": "Surnia focus example",
+                "category": "unedited,coldmood"
+			},
+			{
+				"author": "i loved it - aex shishu wallpaper",
+				"url": "http://i.imgur.com/w8qFGFV.jpg",
+				"thumbUrl": "http://i.imgur.com/w8qFGFVm.jpg",
+				"name": "Dank sunset",
+                "category": "uedited,coldmood"
+			},
+			{
+				"author": "dank photo by ikaro davi - du shishu wallpaper",
+				"url": "http://i.imgur.com/MiTru9R.jpg",
+				"thumbUrl": "http://i.imgur.com/MiTru9Rm.jpg",
+				"name": "Ikaro\'s Flowers",
                 "category": "edited,coldmood"
 			}
 		]
