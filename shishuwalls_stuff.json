@@ -40,7 +40,7 @@
                 "category": "edited,coldmood"
 			},
 			{
-				"author": "edited with VSCO - crdroid shishu background",
+				"author": "edited with VSCO - crdroid shishu bg",
 				"url": "http://i.imgur.com/8uxzaw2.jpg",
 				"thumbUrl": "http://i.imgur.com/8uxzaw2m.jpg",
 				"name": "Cloudstitucion",
@@ -61,7 +61,7 @@
                 "category": "unedited"
 			},
 			{
-				"author": "surnia sprinkles - aicp shishu background",
+				"author": "surnia sprinkles - aicp shishu bg",
 				"url": "http://i.imgur.com/8uxzaw2.jpg",
 				"thumbUrl": "http://i.imgur.com/8uxzaw2m.jpg",
 				"name": "Sunset #893",
@@ -89,18 +89,18 @@
                 "category": "unedited,coldmood"
 			},
 			{
-				"author": "i loved it - aex shishu wallpaper",
+				"author": "i loved it - aex shishu bg",
 				"url": "http://i.imgur.com/w8qFGFV.jpg",
 				"thumbUrl": "http://i.imgur.com/w8qFGFVm.jpg",
 				"name": "Dank sunset",
                 "category": "edited,sunny"
 			},
 			{
-				"author": "dank photo by ikaro davi - du shishu wallpaper",
+				"author": "dank pic by ikaro davi - du shishu bg",
 				"url": "http://i.imgur.com/MiTru9R.jpg",
 				"thumbUrl": "http://i.imgur.com/MiTru9Rm.jpg",
 				"name": "Ikaro's Flowers",
-                "category": "edited,calm"
+                "category": "edited,calm,edits"
 			},
 			{
 				"author": "now look at this hate",
@@ -117,7 +117,7 @@
                 "category": "edited,coldmood"
 			},
 			{
-				"author": "random one - rr shishu wallpaper",
+				"author": "random one - rr shishu bg",
 				"url": "http://i.imgur.com/gyhEE4C.jpg",
 				"thumbUrl": "http://i.imgur.com/gyhEE4Cm.jpg",
 				"name": "Somewhere over the genericquote",
@@ -136,6 +136,41 @@
 				"thumbUrl": "http://i.imgur.com/XIE2FDHm.jpg",
 				"name": "Childhood revisited",
                 "category": "edited,calm,coldmood"
-			}
+			},
+			{
+				"author": "VSCO does his magic",
+				"url": "http://i.imgur.com/RzfI1By.jpg",
+				"thumbUrl": "http://i.imgur.com/RzfI1Bym.jpg",
+				"name": "Flowers edited to be pretty",
+                "category": "edited,calm,coldmood,sunny"
+			},
+			{
+				"author": "such an original piece",
+				"url": "http://i.imgur.com/RzfI1By.jpg",
+				"thumbUrl": "http://i.imgur.com/RzfI1Bym.jpg",
+				"name": "Oh, a sunset",
+                "category": "unedited,calm,sunny"
+			},
+			{
+				"author": "there's more of this",
+				"url": "http://i.imgur.com/XAXp8lQ.jpg",
+				"thumbUrl": "http://i.imgur.com/XAXp8lQm.jpg",
+				"name": "Oh... another sunset",
+                "category": "unedited,calm,sunny"
+			},
+			{
+				"author": "santa clara, buenos aires",
+				"url": "http://i.imgur.com/EcDymur.jpg",
+				"thumbUrl": "http://i.imgur.com/EcDymurm.jpg",
+				"name": "Some kind of hipster stuff",
+                "category": "edited,coldmood,greyscale"
+			},
+			{
+				"author": "i miss the internship - aosip default bg",
+				"url": "http://i.imgur.com/Bl5ML2J.jpg",
+				"thumbUrl": "http://i.imgur.com/Bl5ML2Jm.jpg",
+				"name": "Sad lorenzo's bridge",
+                "category": "edited,coldmood,greyscale"
+			},
 		]
 }
