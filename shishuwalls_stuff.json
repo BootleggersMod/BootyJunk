@@ -172,5 +172,26 @@
 				"name": "Sad lorenzo's bridge",
                 "category": "edited,coldmood,greyscale"
 			},
+			{
+				"author": "4 that sad wacha",
+				"url": "http://i.imgur.com/H3KbfUZ.jpg",
+				"thumbUrl": "http://i.imgur.com/H3KbfUZm.jpg",
+				"name": "Can you stop with the sunsets?",
+                "category": "unedited,sunny,calm"
+			},
+			{
+				"author": "plant on a roof",
+				"url": "http://i.imgur.com/f7vnAho.jpg",
+				"thumbUrl": "http://i.imgur.com/f7vnAhom.jpg",
+				"name": "Calm evening",
+                "category": "unedited,calm"
+			},
+			{
+				"author": "i miss the internship - aosip default bg",
+				"url": "http://i.imgur.com/4L47p95.jpg",
+				"thumbUrl": "http://i.imgur.com/4L47p95m.jpg",
+				"name": "It's close to dark",
+                "category": "unedited,calm,sunny"
+			}
 		]
 }
