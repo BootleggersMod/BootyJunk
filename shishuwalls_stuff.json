@@ -439,11 +439,25 @@
                 "category": "unedited"
 			},
 			{
-				"author": "meh simple stuff",
-				"url": "http://i.imgur.com/WL65yQW.jpg",
-				"thumbUrl": "http://i.imgur.com/WL65yQWm.jpg",
-				"name": "Pink Glitters on the sky",
-                "category": "unedited"
+				"author": "bamboozled by vsco",
+				"url": "http://i.imgur.com/BCQjvxI.jpg",
+				"thumbUrl": "http://i.imgur.com/BCQjvxIm.jpg",
+				"name": "The weirdest daydream",
+                "category": "edited"
+			},
+			{
+				"author": "it's better cropped",
+				"url": "http://i.imgur.com/aCqb3mG.jpg",
+				"thumbUrl": "http://i.imgur.com/aCqb3mGm.jpg",
+				"name": "[need2befree]",
+                "category": "edited"
+			},
+			{
+				"author": "original by xvBlxxd",
+				"url": "http://i.imgur.com/T2abxV4.jpg",
+				"thumbUrl": "http://i.imgur.com/T2abxV4m.jpg",
+				"name": "Undelet 004",
+                "category": "edited"
 			}
 		]
 }
