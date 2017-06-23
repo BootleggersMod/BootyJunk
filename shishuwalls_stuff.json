@@ -472,6 +472,13 @@
 				"thumbUrl": "http://i.imgur.com/sQafX9Nm.jpg",
 				"name": "Cold",
                 "category": "edited,coldmood"
+			},
+			{
+				"author": "original by pedrootb",
+				"url": "http://i.imgur.com/1SBwCEb.jpg",
+				"thumbUrl": "http://i.imgur.com/1SBwCEbm.jpg",
+				"name": "Feather",
+                "category": "edited,coldmood"
 			}
 		]
 }
