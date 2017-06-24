@@ -479,6 +479,20 @@
 				"thumbUrl": "http://i.imgur.com/1SBwCEbm.jpg",
 				"name": "Feather",
                 "category": "edited,coldmood"
+			},
+			{
+				"author": "shot by diegofreije",
+				"url": "http://i.imgur.com/SRkjuoA.jpg",
+				"thumbUrl": "http://i.imgur.com/SRkjuoAm.jpg",
+				"name": "Momentum",
+                "category": "unedited,coldmood"
+			},
+			{
+				"author": "htc editor + diegofreije",
+				"url": "http://i.imgur.com/5pEJdgR.jpg",
+				"thumbUrl": "http://i.imgur.com/5pEJdgRm.jpg",
+				"name": "Aesthetic Dreams",
+                "category": "edited"
 			}
 		]
 }
